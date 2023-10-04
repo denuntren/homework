@@ -1,0 +1,5 @@
+*.sass
+bin/
+admin/
+config/
+.vs
